@@ -18,10 +18,10 @@ La forma de utilizar estos enlaces es agregandolos dentro de la etiqueta `<head>
 ### CDN
 
 ### bodystyle.min.css
-[https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.0-fuente/master/dist/css/bodystyle.min.css](https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.0-fuente/master/dist/css/bodystyle.min.css)
+[https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.1-fuente/master/dist/css/bodystyle.min.css](https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.1-fuente/master/dist/css/bodystyle.min.css)
 
 ### bodystyle.min.js
-[https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.0-fuente/master/dist/js/bodystyle.min.js](https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.0-fuente/master/dist/js/bodystyle.min.js)
+[https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.1-fuente/master/dist/js/bodystyle.min.js](https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.1-fuente/master/dist/js/bodystyle.min.js)
 
 #### Cabecera
 ```html
@@ -32,7 +32,7 @@ La forma de utilizar estos enlaces es agregandolos dentro de la etiqueta `<head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Link con el CDN de los estilos css  -->
-    <link rel="stylesheet" href="https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.0-fuente/master/dist/css/bodystyle.min.css">
+    <link rel="stylesheet" href="ttps://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.1-fuente/master/dist/css/bodystyle.min.css">
 
 </head>
 
@@ -41,7 +41,7 @@ La forma de utilizar estos enlaces es agregandolos dentro de la etiqueta `<head>
 
 #### Pie
 ```html
-<script src="https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.0-fuente/master/dist/js/bodystyle.min.js"></script>
+<script src="https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.1-fuente/master/dist/js/bodystyle.min.js"></script>
 </body>
 ```
 
@@ -57,11 +57,11 @@ Dejamos una plantilla para copiar y pegar para poder cargar la librería con lo 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- Link con el CDN de los estilos css  -->
-        <link rel="stylesheet" href="https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.0-fuente/master/dist/css/bodystyle.min.css">
+        <link rel="stylesheet" href="https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.1-fuente/master/dist/css/bodystyle.min.css">
     </head>
     <body>
         <h1>Hola Mundo !!! <span class="badge badge-rojo">New</h1>
-        <script src="https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.0-fuente/master/dist/js/bodystyle.min.js"></script>
+        <script src="https://ghcdn.rawgit.org/FedericoManzano/bodystyle-v2.1.1-fuente/master/dist/js/bodystyle.min.js"></script>
     </body>
 </html>
 ```
@@ -74,12 +74,12 @@ de Node.
 
 ### Archivo Precompilado
 
-[bodystyle-v2.1.0-precompilado-master.zip](https://github.com/FedericoManzano/bodystyle-v2.1.0-precompilado/archive/master.zip)
+[bodystyle-v2.1.1-precompilado-master.zip](https://github.com/FedericoManzano/bodystyle-v2.1.1-precompilado/archive/master.zip)
 
 
 ### Archivo Fuente
 
-[bodystyle-v2.1.0-fuente-master.zip](https://github.com/FedericoManzano/bodystyle-v2.1.0-fuente/archive/master.zip)
+[bodystyle-v2.1.1-fuente-master.zip](https://github.com/FedericoManzano/bodystyle-v2.1.1-fuente/archive/master.zip)
 
 ### Node package
 Ingresar por el terminal los siguientes comandos para instalar la dependencia de la librería.
